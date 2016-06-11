@@ -1,0 +1,37 @@
+c:\users\20141326\documents\visual studio 2013\Projects\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+c:\users\20141326\documents\visual studio 2013\Projects\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+c:\users\20141326\documents\visual studio 2013\Projects\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+c:\users\20141326\documents\visual studio 2013\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Form1.resources
+c:\users\20141326\documents\visual studio 2013\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+c:\users\20141326\documents\visual studio 2013\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.Cache
+c:\users\20141326\documents\visual studio 2013\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+c:\users\20141326\documents\visual studio 2013\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+C:\Users\20141326\Desktop\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+C:\Users\20141326\Desktop\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+C:\Users\20141326\Desktop\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+C:\Users\20141326\Desktop\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+C:\Users\20141326\Desktop\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+C:\Users\20141326\Desktop\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csprojResolveAssemblyReference.cache
+C:\Users\20141326\Desktop\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Form1.resources
+C:\Users\20141326\Desktop\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+C:\Users\20141326\Desktop\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.Cache
+D:\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+D:\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+D:\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+D:\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+D:\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+D:\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csprojResolveAssemblyReference.cache
+D:\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Form1.resources
+D:\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+D:\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.Cache
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csprojResolveAssemblyReference.cache
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.Cache
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.MainWindow.resources
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\bin\Debug\FileHelpers.dll
+C:\Users\andriusic\Documents\Visual Studio 2015\Projects\SopaDeLetras\SopaDeLetras\bin\Debug\FileHelpers.xml
